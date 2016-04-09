@@ -34,7 +34,7 @@
     "roomba"
   ],
   "dependencies": {
-    "lodash": "^4.5.0",
+    "lodash": "^4.9.0",
     "node.extend": "^1.1.5",
     "serialport": "^2.0.6"
   }
